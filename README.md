@@ -10,7 +10,7 @@ There are two options for executing the code.
 One is where the user gives the input and for this set of points, the convex polygon is found for these points using the divide and conquer approach.
 
 The second approach is running for the predefined inputs which vary from input size 10 to 1000000. the range of the inputs 
-changes from (0,100), (0,1000) and (0,10000). This will run for 48 different test cases and will take time to plot all the graphs since the size of inputs increases to 1000000.
+changes from (0,100), (0,1000) and (0,10000). This will run for 48 different test cases and will take time to plot all the graphs since the size of inputs increases to 1000000.<br/>
 The user interface is written in python and the algorithms are written in cpp.<br/>
 The implementation files that are called are:
 1. divide_and_conquer.cpp(To illustrate the output when the user gives the input).
