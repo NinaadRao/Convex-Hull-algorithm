@@ -11,9 +11,9 @@ One is where the user gives the input and for this set of points, the convex pol
 
 The second approach is running for the predefined inputs which vary from input size 10 to 1000000. the range of the inputs 
 changes from (0,100), (0,1000) and (0,10000).
-The ui is written in python and the algorithms are written in cpp.
-Make sure g++ is installed in your system.
-Python modules required: subprocess, matplotlib
+The ui is written in python and the algorithms are written in cpp.<br/>
+Make sure g++ is installed in your system.<br/>
+Python modules required: subprocess, matplotlib<br/>
 To run the code, run:
 python ui.py
 
